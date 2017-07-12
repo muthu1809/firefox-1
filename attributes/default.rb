@@ -1,5 +1,5 @@
 #
-# Cookbook:: firefox
+# Cookbook:: mozilla firefox
 # Attribute:: default
 #
 # Copyright:: 2012-2016, Webtrends Inc
